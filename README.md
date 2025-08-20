@@ -1,4 +1,4 @@
-# E-commerce Customer Retention – 2024 Data Story
+
 
 📧 Analyst: **23f3003580@ds.study.iitm.ac.in**  
 🔧 Tools: LLM-powered (Jules/ChatGPT Codex), Python  
